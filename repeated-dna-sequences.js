@@ -1,7 +1,4 @@
-/**
- * @param {string} s
- * @return {string[]}
- */
+
 var findRepeatedDnaSequences = function (s) {
     const seen = new Set();
     const repeated = new Set();
