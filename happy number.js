@@ -1,7 +1,4 @@
-/**
- * @param {number} n
- * @return {boolean}
- */
+
 var isHappy = function (n) {
     function getNextNumber(num) {
         let sum = 0;
